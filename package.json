@@ -1,0 +1,35 @@
+{
+  "name": "jordan-scrapes-i502",
+  "version": "1.0.0",
+  "description": "Jordan scrapes I-502 for business data.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarmora/jordan-scrapes-i502.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "axios",
+    "web",
+    "scraping"
+  ],
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarmora/jordan-scrapes-i502/issues"
+  },
+  "homepage": "https://github.com/aarmora/jordan-scrapes-i502#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.22",
+    "typescript": "^4.0.3"
+  }
+}
