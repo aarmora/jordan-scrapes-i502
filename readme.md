@@ -8,7 +8,7 @@ Clone the repository and run `npm i`.
 
 After that, you just need to run `npm start`.
 
-[Full Guide Here](https://javascriptwebscrapingguy.com/jordan-uses-luminati/)
+[Full Guide Here](https://javascriptwebscrapingguy.com/jordan-scrapes-washingtons-marijuana-producers/)
 
 ### Prerequisites
 
